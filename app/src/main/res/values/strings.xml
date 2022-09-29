@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Indian Constitution</string>
+    <string name="correct">That\'s true</string>
+    <string name="incorrect">That\'s false</string>
+    <string name="question1">42nd Constitutional Amendment is called \'Mini Constitution\'</string>
+    <string name="question2">Presence of Actual Executive and Nominal Executive is not a feature of Indian parliamentary system</string>
+    <string name="question3">Rights against exploitation: come under Article 20–22</string>
+    <string name="question4">The idea of \'concurrent list\'in the Indian constitution is taken from the Constitution of Japan</string>
+    <string name="question5">the judicial areas of the states is concerned with seventh schedule</string>
+    <string name="question6">Fundamental Rights is not taken from British Constitution in the Constitution of India</string>
+    <string name="question7">Article 19 cannot be null during the National Emergency</string>
+    <string name="question8">The Preamble is the conclusion to the Constitution</string>
+    <string name="question9">In India, there are no areas in which the states can make their own laws.</string>
+    <string name="question10">A Directive Principle can be enforced when it becomes a law.</string>
+</resources>
